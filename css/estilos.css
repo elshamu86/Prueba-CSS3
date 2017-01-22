@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'DancingScript';
+  src: url(fonts/DancingScript-Regular.otf);
+}
+
+*{
+  margin: 0;
+}
+body{
+  font-family: "DancingScript";
+  margin-left: 50%;
+  background-color: #02010a;
+  color: black;
+  font-size: 16px;
+  width: 90%;
+}
+
+.Contenido {
+  width: 900px;
+  margin: center;
+  box-sizing: border-box;
+  background-color: #02010a;
+}
+
+#Cabecera{
+  height: 1em;
+  margin: 0 auto;
+  padding-top: 2%;
+  padding-bottom: 5%;
+  background-color: #5b7989;
+  border-radius: 10px 10px 0px 0px;
+  margin-bottom: 2%;
+}
